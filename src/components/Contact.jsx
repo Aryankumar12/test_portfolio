@@ -62,7 +62,7 @@ export default function ContactMe() {
           whileTap={{ scale: 0.95 }}
           className="px-6 py-3 md:px-8 md:py-4 bg-white text-black text-lg md:text-xl font-semibold rounded-lg shadow-md hover:bg-green-500 hover:text-white transition duration-300 ease-in-out"
         >
-          Send Hi
+          Send Hellow from Aryan
         </motion.button>
       </motion.a>
     </motion.div>
